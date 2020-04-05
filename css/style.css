@@ -1,0 +1,30 @@
+.content {
+    display: inline;
+}
+
+.main {
+    margin: auto;
+    width: 90%;
+}
+
+.main h1 {
+    display: inline;
+}
+
+.main ul {
+    display: inline;
+    padding-left: 0;
+}
+
+.main li {
+    display: inline;
+}
+
+.main hr {
+    margin-top: 20px;
+    border-color: #468dd4;
+}
+
+.blurb {
+    margin-top: 50px;
+}
