@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Just ramblings on various tech and observations.
 
-Maybe say a some things about yourself.
+I'll primarily focus on things that interest me: programming, tips, tools, and hobbies.
 
-Or maybe what you plan to blog about.
+Some of my hobbies include working out, snowboarding, and making prints.
